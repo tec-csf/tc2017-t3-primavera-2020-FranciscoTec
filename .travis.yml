@@ -1,0 +1,8 @@
+language: cpp
+
+compiler: g++
+
+script: 
+- cd sources/
+- g++ Monedas.cpp -o Monedas
+- g++ Vectores.cpp -o Vectores
