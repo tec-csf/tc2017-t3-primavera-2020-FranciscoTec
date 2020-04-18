@@ -3,6 +3,7 @@
 #include <ctime>
 #include <algorithm>
 
+/* codgio para obtener la mediana de un arreglo k formado por 2 arreglos X e Y de tamaño n ordenados de manera creciente */
 using namespace std;
 
 int encontrarMedio(int sizeK){
