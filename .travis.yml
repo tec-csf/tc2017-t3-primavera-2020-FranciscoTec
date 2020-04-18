@@ -4,5 +4,5 @@ compiler: g++
 
 script: 
 - cd Sources/
-- g++ Monedas.cpp -o Monedas
-- g++ Vectores.cpp -o Vectores
+- clang++ Monedas.cpp -o Monedas
+- clang++ Vectores.cpp -o Vectores
