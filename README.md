@@ -1,4 +1,4 @@
-# Tarea *Tarea 3*. *Tecticas de diseño de algoritmos*
+#*Tarea 3*. *Tecticas de diseño de algoritmos*
 
 ---
 
